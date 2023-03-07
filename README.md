@@ -41,6 +41,3 @@ $ terraform apply -var-file="dev.tfvars"
         - > Ideally we alias a nice name to the cn distro, this part I'm not able to test for free
 - Had a minor challenge [see my question on Stackoverflow](https://stackoverflow.com/questions/75438001/terraform-aws-s3-bucket-object-call-to-function-filemd5-failed-open-file/75440212#75440212)
 - Overall I had fun 
-
-## Demo
-- See https://youtu.be/x5cIlQV7vbQ
